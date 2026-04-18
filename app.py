@@ -9,9 +9,9 @@ import py3Dmol
 from streamlit_ketcher import st_ketcher
 
 # Page Configuration
-st.set_page_config(page_title="Mini-Schrödinger Utility", layout="wide")
+st.set_page_config(page_title="MoleculePro Discovery Utility", layout="wide")
 
-st.title("🧪 Mini-Schrödinger Utility")
+st.title("🧪🧪 MoleculePro Discovery Utility")
 
 # --- SIDEBAR: PRESETS ---
 st.sidebar.header("Drug Presets")
