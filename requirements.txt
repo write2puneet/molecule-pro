@@ -7,3 +7,4 @@ stmol
 py3Dmol
 streamlit-ketcher
 ipython_genutils
+fpdf
